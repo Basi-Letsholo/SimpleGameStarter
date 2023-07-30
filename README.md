@@ -9,4 +9,5 @@
 - Quiz Game (Python)
 
 #### In progress:
+- Quiz Game (C)
 - Rock, Paper Scissors
