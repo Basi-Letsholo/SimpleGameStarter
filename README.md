@@ -1,4 +1,4 @@
-# Simple Games Starter
+# Simple Games and Projects
 
  ✨ A collection of simple games and projects ✨
 
@@ -7,7 +7,7 @@
 ### Projects/Games:
 - Number guessing game (Python)
 - Quiz Game (Python)
+- Rock, Paper, Scissors (Python)
 
 #### In progress:
 - Quiz Game (C)
-- Rock, Paper Scissors
